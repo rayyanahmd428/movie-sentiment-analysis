@@ -1,0 +1,37 @@
+body {
+    background-color: #f8f9fa;
+}
+
+h1 {
+    color: #007bff;
+}
+
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+}
+
+.text-success {
+    color: #28a745 !important;
+    font-size: 1.5em; 
+    text-align: center; 
+}
+
+.text-danger {
+    color: #dc3545 !important;
+    font-size: 1.5em; 
+    text-align: center; 
+}
+
+#result {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100px;
+} 
+
